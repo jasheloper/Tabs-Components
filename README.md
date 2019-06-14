@@ -1,4 +1,12 @@
 # TABS-COMPONENTS
+<a href=""><img src="images/screencap" alt="Tabs Component Project"></a>
+
+
+
+# Contact Me
+<a href="http://jasheletillman.me/" target=_blank>Portfolio</a> • <a href="https://www.linkedin.com/in/jashelet/" target=_blank>LinkedIn</a> • <a href="https://twitter.com/jasheloper" target=_blank>Twitter</a> • <a href="https://www.instagram.com/jasheloper/" target=_blank>Instagram</a> • <a href="mailto:jftjashele@gmail.com" target=_blank>E-mail</a> 
+<br /><br />
+
 
 Topics:
 
