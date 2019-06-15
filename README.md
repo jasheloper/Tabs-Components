@@ -8,7 +8,7 @@
 <br /><br />
 
 
-Topics:
+# Topics:
 
 * Constructors with ES6 class syntax
 
